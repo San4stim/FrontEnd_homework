@@ -1,0 +1,28 @@
+html
+    {
+	    height: 100%;
+	    width: 100%
+    }
+
+ul, ol
+    {
+	    padding-left: 40px;
+    }
+
+header
+    {
+	    padding: 5px;
+    }
+
+footer
+    {
+	    padding: 3px;
+	    padding-top: 8px;
+	    padding-right: 8px;
+    }
+
+#for_text
+    {
+        padding: 30px;
+        margin: 50px;
+    }
